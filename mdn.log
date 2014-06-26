@@ -1,0 +1,373 @@
+mdn2.0(2994) malloc: recording malloc stacks to disk using standard recorder
+mdn2.0(2994) malloc: stack logs being written into /private/var/mobile/Applications/738035E6-D9C5-42BE-A6A2-60F44F5B5AD6/tmp/stack-logs.2994.mdn2.0.index
+mdn2.0(2994) malloc: Please issue: cp /private/var/mobile/Applications/738035E6-D9C5-42BE-A6A2-60F44F5B5AD6/tmp/stack-logs.2994.mdn2.0.NoTQr1.link /tmp/
+2014-06-20 17:20:23.132 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.143 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.146 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.148 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.151 mdn2.0[2994:907] ifap->ifa_name = en0
+2014-06-20 17:20:23.153 mdn2.0[2994:907] ifap->ifa_name = en0
+2014-06-20 17:20:23.156 mdn2.0[2994:907] ifap->ifa_name = en0
+2014-06-20 17:20:23.160 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.164 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.167 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.169 mdn2.0[2994:907] ifap->ifa_name = lo0
+2014-06-20 17:20:23.172 mdn2.0[2994:907] ifap->ifa_name = en0
+2014-06-20 17:20:23.174 mdn2.0[2994:907] ifap->ifa_name = en0
+2014-06-20 17:20:23.177 mdn2.0[2994:907] ifap->ifa_name = en0
+2014-06-20 17:20:23.179 mdn2.0[2994:907] ifap->ifa_name = en1
+2014-06-20 17:20:23.182 mdn2.0[2994:907] only support ipv4
+2014-06-20 17:20:23.640 mdn2.0[2994:907] [DEBUG] -[BaseViewController viewDidLoad](78):self.view.width:748.000000,self.view.height:1024.000000
+2014-06-20 17:20:23.822 mdn2.0[2994:3d13] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:1042] -- AcrossClient Version: 417
+2014-06-20 17:20:23.827 mdn2.0[2994:3d13] AcrossClient Version: 417
+2014-06-20 17:20:23.830 mdn2.0[2994:3d13] config file: /var/mobile/Applications/738035E6-D9C5-42BE-A6A2-60F44F5B5AD6/mdn2.0.app/npsc.cfg
+
+2014-06-20 17:20:23.837 mdn2.0[2994:3d13] StartMainTCPConn
+2014-06-20 17:20:23.840 mdn2.0[2994:907] [DEBUG] -[AppDelegate application:didFinishLaunchingWithOptions:](26):1024.000000
+2014-06-20 17:20:23.842 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.843 mdn2.0[2994:907] [DEBUG] -[AppDelegate application:didFinishLaunchingWithOptions:](27):768.000000,1024.000000,/var/mobile/Applications/738035E6-D9C5-42BE-A6A2-60F44F5B5AD6/mdn2.0.app
+2014-06-20 17:20:23.846 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.849 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.851 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.853 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:23.855 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:23.857 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:23.859 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.862 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.864 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.866 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:23.868 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:23.870 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:23.873 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:23.875 mdn2.0[2994:4303] ifap->ifa_name = en1
+2014-06-20 17:20:23.877 mdn2.0[2994:4303] only support ipv4
+2014-06-20 17:20:23.879 mdn2.0[2994:4303] IPv4:10.9.68.10, IPv6:
+2014-06-20 17:20:23.881 mdn2.0[2994:4303] m_proto = 2
+2014-06-20 17:20:23.884 mdn2.0[2994:4303] connect to epollsrv 219.141.189.10...
+2014-06-20 17:20:23.897 mdn2.0[2994:4303] [acrossclient.cpp:854], stMessageC2S len: 772
+2014-06-20 17:20:23.901 mdn2.0[2994:4303] [acrossclient.cpp:864], local ip=10.9.68.10
+2014-06-20 17:20:24.106 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 3
+2014-06-20 17:20:24.110 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=3, data size =772
+2014-06-20 17:20:24.112 mdn2.0[2994:4303] Login Success, set event
+2014-06-20 17:20:24.115 mdn2.0[2994:4303] IOS: set sem
+2014-06-20 17:20:24.117 mdn2.0[2994:4303] sem_post g_semConnectOk Success
+2014-06-20 17:20:24.118 mdn2.0[2994:3d13] sem_timedwait() succeeded
+2014-06-20 17:20:24.121 mdn2.0[2994:3d13] local-ip:10.9.68.10, reflex-ip:219.142.69.77
+2014-06-20 17:20:24.124 mdn2.0[2994:3d13] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:1087] -- login return: reflex ip = 219.142.69.77, port = 47334
+2014-06-20 17:20:24.127 mdn2.0[2994:3d13] [DEBUG] -[TcpWrapper login](87):登录nps服务器成功
+2014-06-20 17:20:24.134 mdn2.0[2994:3d13] [DEBUG] -[TcpWrapper login](107):{
+  "svrlfxPrio" : 0,
+  "userid" : 0,
+  "localIP" : "10.9.68.10",
+  "svrflxPort" : 47334,
+  "reflxPort_MR" : 0,
+  "localIpv6" : "",
+  "reflxPort_Org" : 47334,
+  "relayPort" : 5000,
+  "localPort" : 47207,
+  "relayPrio" : 0,
+  "localPrio" : 0,
+  "relayIP" : "219.141.189.8",
+  "reflxIp_MR" : "",
+  "svrflxIP" : "219.142.69.77"
+}
+2014-06-20 17:20:26.848 mdn2.0[2994:907] [DEBUG] -[AppDelegate applicationDidBecomeActive:](70):applicationDidBecomeActive
+2014-06-20 17:20:26.854 mdn2.0[2994:907] [DEBUG] -[BaseViewController Notification_BaseEvent:](412):UIApplicationDidBecomeActiveNotification
+2014-06-20 17:20:27.011 mdn2.0[2994:907] [ERROR] -[BaseViewController finishProcedure:](263):error code is 0
+2014-06-20 17:20:39.057 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:20:39.061 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:20:41.439 mdn2.0[2994:907] [DEBUG] -[DpsClient connectserver](57):连接npa服务器成功
+2014-06-20 17:20:41.467 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didConnectToHost:port:](265):client didConnectToHost
+2014-06-20 17:20:41.470 mdn2.0[2994:907] [DEBUG] -[LoginViewController statusChange:code:](449):2
+2014-06-20 17:20:41.511 mdn2.0[2994:907] Starting asynchronous request <ASIFormDataRequest: 0x1d9a6000>
+2014-06-20 17:20:41.517 mdn2.0[2994:6403] 
+
+==== Building an application/x-www-form-urlencoded body ====
+
+useraccount=test11&password=200820e3227815ed1756a6b531e7e0d2&devicename=Alexanders%20iPhone&duid=6629bae23af54584ba705f04b6c6f4f0&device_type=ios&net_type=1
+
+==== End of application/x-www-form-urlencoded body ====
+
+2014-06-20 17:20:41.554 mdn2.0[2994:6403] Request #1 will use connection #1
+2014-06-20 17:20:41.822 mdn2.0[2994:6403] ===Used: 32768 bytes of bandwidth in last measurement period===
+2014-06-20 17:20:41.827 mdn2.0[2994:6403] Request <ASIFormDataRequest: 0x1d9a6000> finished uploading data
+2014-06-20 17:20:41.837 mdn2.0[2994:6403] Request <ASIFormDataRequest: 0x1d9a6000> received response headers
+2014-06-20 17:20:41.843 mdn2.0[2994:6403] Got a keep-alive header, will keep this connection open for 5.000000 seconds
+2014-06-20 17:20:41.847 mdn2.0[2994:6403] Request <ASIFormDataRequest: 0x1d9a6000> finished downloading data (409 bytes)
+2014-06-20 17:20:41.850 mdn2.0[2994:6403] Request #1 finished using connection #1
+2014-06-20 17:20:41.853 mdn2.0[2994:907] Request finished: <ASIFormDataRequest: 0x1d9a6000>
+2014-06-20 17:20:41.855 mdn2.0[2994:907] [ERROR] -[BaseViewController finishProcedure:](263):error code is 0
+2014-06-20 17:20:41.862 mdn2.0[2994:907] [DEBUG] -[LoginViewController requestFinished:](367):{"code":"0","message":"\u767b\u5f55\u6210\u529f","data":{"user_id":"38","user_name":"test11","duid":"bb94420e624d6afc125428c89403b51c","orignal_duid":"6629bae23af54584ba705f04b6c6f4f0","sign":"NjYyOWJhZTIzYWY1NDU4NGJhNzA1ZjA0YjZjNmY0ZjAzOA==","device_name":"Alexanders iPhone(1)","phone":"18810744567","config":{"iswifisend":"1","isshare":"0","iscamera":"0","islocation":"0","sharepath":null},"sharelist":[]}}
+2014-06-20 17:20:41.909 mdn2.0[2994:907] [DEBUG] +[STDbHandle selectDbObjects:condition:orderby:](565):sql:select * from FileModDb
+2014-06-20 17:20:42.210 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:42.218 mdn2.0[2994:907] [DEBUG] -[DpsClient login:](130):{
+  "userid" : 38,
+  "svrflxIP" : "219.142.69.77",
+  "orignal_duid" : "6629bae23af54584ba705f04b6c6f4f0",
+  "deviceTag" : "alexander's iphone",
+  "localIP" : "10.9.68.10",
+  "duid" : "bb94420e624d6afc125428c89403b51c",
+  "svrflxPort" : 47334,
+  "reflxPort_MR" : 0,
+  "localIpv6" : "",
+  "reflxPort_Org" : 47334,
+  "relayPort" : 5000,
+  "localPort" : 47207,
+  "relayPrio" : 0,
+  "localPrio" : 0,
+  "relayIP" : "219.141.189.8",
+  "deviceType" : "ipad",
+  "reflxIp_MR" : "",
+  "svrlfxPrio" : 0
+}
+2014-06-20 17:20:42.279 mdn2.0[2994:907] [DEBUG] -[BaseViewController viewDidLoad](78):self.view.width:748.000000,self.view.height:1024.000000
+2014-06-20 17:20:42.319 mdn2.0[2994:907] [DEBUG] +[STDbHandle selectDbObjects:condition:orderby:](565):sql:select * from FileModDb where transstatus=4 order by  id__ desc limit 0,20
+2014-06-20 17:20:43.097 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:20:45.806 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:20:45.810 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:45.813 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:48.967 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:20:48.970 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:48.973 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:52.083 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 6
+2014-06-20 17:20:52.087 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=6, data size =772
+2014-06-20 17:20:52.089 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:452] -- Recv: [MESSAGE_REQUEST_MAKE_HOLE]
+2014-06-20 17:20:52.092 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:458] -- localip: 10.9.68.23:57803, localipv6:, reflx: 219.142.69.78:33845
+2014-06-20 17:20:52.094 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:479] -- ¿ªÆôÒ»¸öÐÂ¶Ë¿ÚÁ¬½Óµ½NPS
+2014-06-20 17:20:52.097 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.099 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.100 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.102 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.103 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:52.105 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:52.106 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:52.108 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.109 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.110 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.112 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:52.113 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:52.115 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:52.116 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:52.118 mdn2.0[2994:4303] ifap->ifa_name = en1
+2014-06-20 17:20:52.119 mdn2.0[2994:4303] only support ipv4
+2014-06-20 17:20:52.129 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:498] -- ·¢ËÍMESSAGE_REQUEST_MAKE_HOLE_ACKµ½NPS
+2014-06-20 17:20:54.150 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:20:54.153 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:20:54.660 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 6
+2014-06-20 17:20:54.663 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=6, data size =772
+2014-06-20 17:20:54.665 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:452] -- Recv: [MESSAGE_REQUEST_MAKE_HOLE]
+2014-06-20 17:20:54.667 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:458] -- localip: 10.9.68.23:57803, localipv6:, reflx: 219.142.69.78:33925
+2014-06-20 17:20:54.669 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.671 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.672 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.674 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.675 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:54.677 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:54.678 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:54.680 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.682 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.683 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.685 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:20:54.686 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:54.688 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:54.689 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:20:54.691 mdn2.0[2994:4303] ifap->ifa_name = en1
+2014-06-20 17:20:54.692 mdn2.0[2994:4303] only support ipv4
+2014-06-20 17:20:54.694 mdn2.0[2994:4303] protoA=2, userB.ipv6:, userB.ipv4:10.9.68.23
+2014-06-20 17:20:54.696 mdn2.0[2994:4303] m_proto = 2
+2014-06-20 17:20:54.697 mdn2.0[2994:4303] ==========peer port:57803
+2014-06-20 17:20:54.855 mdn2.0[2994:4303] Local connect success...
+2014-06-20 17:20:54.859 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:224] -- Local connect success, peer address: 10.9.68.23@57803
+2014-06-20 17:20:54.862 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.864 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.865 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.866 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.868 mdn2.0[2994:6117] ifap->ifa_name = en0
+2014-06-20 17:20:54.869 mdn2.0[2994:6117] ifap->ifa_name = en0
+2014-06-20 17:20:54.871 mdn2.0[2994:6117] ifap->ifa_name = en0
+2014-06-20 17:20:54.872 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.874 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.875 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.877 mdn2.0[2994:6117] ifap->ifa_name = lo0
+2014-06-20 17:20:54.878 mdn2.0[2994:6117] ifap->ifa_name = en0
+2014-06-20 17:20:54.880 mdn2.0[2994:6117] ifap->ifa_name = en0
+2014-06-20 17:20:54.881 mdn2.0[2994:6117] ifap->ifa_name = en0
+2014-06-20 17:20:54.883 mdn2.0[2994:6117] ifap->ifa_name = en1
+2014-06-20 17:20:54.885 mdn2.0[2994:6117] only support ipv4
+2014-06-20 17:20:54.887 mdn2.0[2994:6117] [P2P] >>>>>TCP connect start<<<<<<
+2014-06-20 17:20:54.939 mdn2.0[2994:6117] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[server.cpp:330] -- connect to peer success in thread
+2014-06-20 17:20:54.942 mdn2.0[2994:6117] connect to peer success in thread
+2014-06-20 17:20:54.944 mdn2.0[2994:6117] [P2P] -Start communicate
+2014-06-20 17:20:54.946 mdn2.0[2994:6117] [publicfun.mm:791], [P2P] -Send CMD=;, Count=0000000000
+2014-06-20 17:20:54.948 mdn2.0[2994:6117] [publicfun.mm:817], SendData content->len:804133064, psMRelayHeader=0
+2014-06-20 17:20:54.949 mdn2.0[2994:6117] Send data head success
+2014-06-20 17:20:54.951 mdn2.0[2994:6117] No data need sent, only cmd deliver.
+2014-06-20 17:20:56.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:20:56.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:56.460 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:20:56.463 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:20:56.466 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:56.468 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:20:56.470 mdn2.0[2994:907] [DEBUG] -[DpsClient HandlCommand:](323):收到连接请求,{"duid":"8fcede9585b3e55fb2bc64aab0030239","deviceType":"iphone","matchCode":null,"deviceTag":"tobyphone","localIP":"10.9.68.23","localPort":40996,"localFda":null,"localPrio":0,"svrflxIP":"219.142.69.78","svrflxPort":33794,"svrflxFda":null,"svrlfxPrio":0,"relayIP":"219.141.189.8","relayPort":5000,"relayFda":null,"relayPrio":0,"ufrag":null,"pwd":null,"svccounts":0,"svctype":null,"ControlList":[],"PeerStatus":0,"UpdateTime":"\/Date(-62135596800000+0800)\/","ControlDuid":null,"userid":38,"localIpv6":"","reflxIp_MR":"","reflxPort_MR":0,"reflxPort_Org":33794,"role":"controlling"}
+2014-06-20 17:21:09.692 mdn2.0[2994:6117]  ’µΩ£∫CMD_CONN_TEST_ACK œ˚œ¢
+2014-06-20 17:21:09.696 mdn2.0[2994:6117] [P2P] Recv Server Peer --CMD_CONN_TEST_ACK-- response
+2014-06-20 17:21:09.699 mdn2.0[2994:6117] [DEBUG] -[TcpWrapper callback:len:type:session:](323):[P2P] Recv Server Peer --CMD_CONN_TEST_ACK-- response
+2014-06-20 17:21:09.701 mdn2.0[2994:6117] [WARN]  -[TcpWrapper callback:len:type:session:](468):未知错误:[p2,
+2014-06-20 17:21:09.703 mdn2.0[2994:6117] IOS: set sem
+2014-06-20 17:21:09.705 mdn2.0[2994:6117] sem_post g_semConnectOk Success
+2014-06-20 17:21:09.706 mdn2.0[2994:4303] sem_timedwait() succeeded
+2014-06-20 17:21:09.708 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](323):200:[Local suc: 10.9.68.23@57803] |Reflex 219.142.69.78@33794 |Thread:804134912
+2014-06-20 17:21:09.711 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](361):建立连接成功
+2014-06-20 17:21:09.714 mdn2.0[2994:4303] Push 219.142.69.78@33794, tid=804134912 into g_mapThreads
+2014-06-20 17:21:09.918 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:21:09.921 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:21:11.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:21:11.449 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:21:11.452 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:21:25.070 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:21:25.074 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:21:26.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:21:26.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:21:26.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:21:40.217 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:21:40.220 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:21:41.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:21:41.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:21:41.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:21:55.366 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:21:55.370 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:21:56.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:21:56.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:21:56.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:22:10.513 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:22:10.517 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:22:11.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:22:11.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:22:11.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:22:25.662 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:22:25.666 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:22:26.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:22:26.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:22:26.450 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:22:40.807 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:22:40.811 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:22:41.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:22:41.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:22:41.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:22:56.152 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:22:56.155 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:22:56.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:22:56.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:22:56.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:23:11.095 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:23:11.099 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:23:11.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:23:11.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:11.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:23:15.591 mdn2.0[2994:6117] Other peer closed
+2014-06-20 17:23:15.594 mdn2.0[2994:6117] [P2P] -- client thread: Server Has Closed.
+2014-06-20 17:23:15.597 mdn2.0[2994:6117] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[server.cpp:462] -- ·þÎñ¶ËÒÑ¹Ø±Õ, ´íÎóÂë£º3
+2014-06-20 17:23:15.599 mdn2.0[2994:6117] [P2P] -πÿ±’SOCKET
+2014-06-20 17:23:15.600 mdn2.0[2994:6117] [DEBUG] -[TcpWrapper callback:len:type:session:](323):400:[P2P] Channel Closed
+2014-06-20 17:23:15.603 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:15.604 mdn2.0[2994:6117] [WARN]  -[TcpWrapper callback:len:type:session:](440):断开连接
+2014-06-20 17:23:15.624 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:23:16.092 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:23:16.094 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:16.097 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:16.318 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:23:16.322 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:16.324 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](407):粘包,数据长度53,当前长度44
+2014-06-20 17:23:26.241 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:23:26.244 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:23:26.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:23:26.447 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:26.450 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:23:31.677 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:23:31.680 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:31.682 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:31.725 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:23:31.729 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:31.732 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:31.998 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 6
+2014-06-20 17:23:32.001 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=6, data size =772
+2014-06-20 17:23:32.004 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:452] -- Recv: [MESSAGE_REQUEST_MAKE_HOLE]
+2014-06-20 17:23:32.006 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:458] -- localip: 10.9.68.23:56923, localipv6:, reflx: 219.142.69.78:39341
+2014-06-20 17:23:32.007 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:479] -- ¿ªÆôÒ»¸öÐÂ¶Ë¿ÚÁ¬½Óµ½NPS
+2014-06-20 17:23:32.010 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.011 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.013 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.014 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.015 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:32.017 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:32.018 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:32.020 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.021 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.023 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.024 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:32.026 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:32.027 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:32.028 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:32.030 mdn2.0[2994:4303] ifap->ifa_name = en1
+2014-06-20 17:23:32.031 mdn2.0[2994:4303] only support ipv4
+2014-06-20 17:23:32.061 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:498] -- ·¢ËÍMESSAGE_REQUEST_MAKE_HOLE_ACKµ½NPS
+2014-06-20 17:23:32.105 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didReadData:withTag:](395):receive data
+2014-06-20 17:23:32.109 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:32.112 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:35.394 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 6
+2014-06-20 17:23:35.398 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=6, data size =772
+2014-06-20 17:23:35.400 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:452] -- Recv: [MESSAGE_REQUEST_MAKE_HOLE]
+2014-06-20 17:23:35.402 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:458] -- localip: 10.9.68.23:9897, localipv6:, reflx: 219.142.69.78:39407
+2014-06-20 17:23:35.404 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:479] -- ¿ªÆôÒ»¸öÐÂ¶Ë¿ÚÁ¬½Óµ½NPS
+2014-06-20 17:23:35.406 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.407 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.409 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.410 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.412 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:35.413 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:35.414 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:35.416 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.417 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.419 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.420 mdn2.0[2994:4303] ifap->ifa_name = lo0
+2014-06-20 17:23:35.422 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:35.423 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:35.425 mdn2.0[2994:4303] ifap->ifa_name = en0
+2014-06-20 17:23:35.426 mdn2.0[2994:4303] ifap->ifa_name = en1
+2014-06-20 17:23:35.427 mdn2.0[2994:4303] only support ipv4
+2014-06-20 17:23:35.456 mdn2.0[2994:4303] [DEBUG] -[TcpWrapper callback:len:type:session:](318):收到通知或log,[acrossclient.cpp:498] -- ·¢ËÍMESSAGE_REQUEST_MAKE_HOLE_ACKµ½NPS
+2014-06-20 17:23:41.314 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:23:41.317 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:23:41.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:23:41.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:41.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:23:56.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:23:56.449 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:23:56.452 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:23:56.462 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:23:56.465 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:24:11.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:24:11.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:24:11.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:24:11.607 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:24:11.610 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:24:26.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:24:26.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:24:26.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:24:26.753 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:24:26.756 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:24:41.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:24:41.449 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:24:41.452 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:24:41.892 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:24:41.895 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:24:56.445 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:24:56.449 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:24:56.452 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:24:57.039 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:24:57.042 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
+2014-06-20 17:25:11.444 mdn2.0[2994:907] [DEBUG] -[DpsClient timerFired:](75):send heart beat
+2014-06-20 17:25:11.448 mdn2.0[2994:907] [DEBUG] -[IoBuffer initIoBufer](23):LittleEndian
+2014-06-20 17:25:11.451 mdn2.0[2994:907] [DEBUG] -[DpsClient onSocket:didWriteDataWithTag:](439):client didWriteDataWithTag:0
+2014-06-20 17:25:12.184 mdn2.0[2994:4303] [XXSocket.cpp:482], [P2S] -Received cmd: 1
+2014-06-20 17:25:12.187 mdn2.0[2994:4303] [acrossclient.cpp:398], NPS information, cmd=1, data size =772
